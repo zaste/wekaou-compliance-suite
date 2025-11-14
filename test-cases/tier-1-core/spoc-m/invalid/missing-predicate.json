@@ -1,0 +1,9 @@
+{
+  "subject": {
+    "id": "test:001",
+    "type": "TestEntity"
+  },
+  "object": {
+    "value": "test-value"
+  }
+}

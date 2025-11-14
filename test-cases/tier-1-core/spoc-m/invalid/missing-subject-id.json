@@ -1,0 +1,11 @@
+{
+  "subject": {
+    "type": "TestEntity"
+  },
+  "predicate": {
+    "relation": "hasProperty"
+  },
+  "object": {
+    "value": "test-value"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "subject": {
+    "id": "org:acme",
+    "type": "Organization",
+    "label": "ACME Corporation",
+    "attributes": {
+      "founded": 1995,
+      "industry": "Technology"
+    }
+  },
+  "predicate": {
+    "relation": "implements",
+    "modality": "actuality",
+    "temporality": {
+      "start": "2024-01-01T00:00:00Z"
+    }
+  },
+  "object": {
+    "value": "WEKAOU",
+    "type": "Framework"
+  },
+  "context": {
+    "domain": "Enterprise Architecture",
+    "scope": "Organization-wide",
+    "perspective": "Technical Leadership"
+  },
+  "mechanism": {
+    "type": "Incremental Adoption",
+    "causality": "causal"
+  },
+  "metadata": {
+    "version": "2.5",
+    "created": "2024-11-14T00:00:00Z",
+    "confidence": 0.95
+  }
+}
